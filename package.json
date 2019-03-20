@@ -1,6 +1,6 @@
 {
   "name": "@zanemx/comit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds git commit messages based on code comments",
   "license": "MIT",
   "repository": "zanemx/comit",
